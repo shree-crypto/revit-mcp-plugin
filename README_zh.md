@@ -61,6 +61,16 @@ revit-mcp-plugin 是一个revit插件，基于 MCP 协议制作，从而使AI可
 
 > 注意：如果启用服务后，修改了配置的命令，可能需要重启REVIT才能使配置生效，这与是否命令已注册相关
 
+## 教程指南
+
+**刚接触这个项目？** 请查看我们的综合[教程指南 (TUTORIAL.md)](TUTORIAL.md)（英文），包含：
+- 项目架构的深入理解
+- 创建自定义命令的分步指南
+- 详细的代码演练和说明
+- 最佳实践和故障排除技巧
+
+非常适合具有基本 C# 知识并想开始从事该项目的开发人员！
+
 ## 自定义命令
 
 可以参考[revit-mcp-commandset](https://github.com/revit-mcp/revit-mcp-commandset)项目，开发自定义命令
