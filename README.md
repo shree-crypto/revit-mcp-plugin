@@ -61,6 +61,16 @@ Open the service to allow AI to discover your Revit program. Now AI can control 
 
 > Note: If you modify the configured commands after enabling the service, you may need to restart REVIT for the configuration to take effect. This is related to whether the command has already been registered.
 
+## Tutorial Guide
+
+**New to this project?** Check out our comprehensive [Tutorial Guide (TUTORIAL.md)](TUTORIAL.md) for:
+- In-depth understanding of the project architecture
+- Step-by-step guide to creating custom commands
+- Detailed code walkthroughs and explanations
+- Best practices and troubleshooting tips
+
+Perfect for developers with basic C# knowledge who want to start working on the project!
+
 ## Custom Commands
 
 You can refer to the [revit-mcp-commandset](https://github.com/revit-mcp/revit-mcp-commandset) project to develop custom commands.
